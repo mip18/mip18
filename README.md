@@ -86,7 +86,7 @@
 
 ---
 
-<h2 align="left">📈 Сейчас изучаю</h2>
+<h1 align="left">📈 Сейчас изучаю</h1>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Product%20Design-FF6B6B?style=for-the-badge" />
@@ -101,12 +101,6 @@
 <h2 align="left">📫 Контакты</h2>
 
 <div align="left">
-  <a href="https://archipmironov.com">
-    <img src="https://img.shields.io/badge/Portfolio-archipmironov.com-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a><br />
-  <a href="https://linkedin.com/in/archip-mironov">
-    <img src="https://img.shields.io/badge/LinkedIn-archip--mironov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a><br />
   <a href="https://behance.net/archip_mironov">
     <img src="https://img.shields.io/badge/Behance-archip__mironov-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
   </a><br />
