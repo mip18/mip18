@@ -5,7 +5,7 @@
 -->
 
 <!-- HEADER -->
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:334155&height=200&section=header&text=Arhip%20Mironov&fontSize=48&fontColor=F8FAFC" alt="header" />
 </p>
 
