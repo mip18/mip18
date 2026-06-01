@@ -5,19 +5,19 @@
 -->
 
 <!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:334155&height=200&section=header&text=Архип%20Миронов&fontSize=48&fontColor=F8FAFC" alt="header" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:334155&height=200&section=header&text=Arkhip%Mironov&fontSize=48&fontColor=F8FAFC" alt="header" />
 </p>
 
-<p align="center">
+<p align="left">
   UI/UX Designer • Product Designer • Creative Thinker
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Designing+beautiful+digital+experiences;Turning+ideas+into+products;Always+learning+something+new" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=archipmironov&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/UI%2FUX-Designer-blue?style=flat-square" alt="Designer" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square" alt="Open to Work" />
@@ -25,21 +25,21 @@
 
 ---
 
-<h2 align="left">👋 Обо мне</h2>
+<h2 align="left">👋 About Me</h2>
 
 <div align="left">
-Меня зовут Архип Миронов.
+My name is Arkhip Mironov.
 
-Я начинающий дизайнер, который стремится создавать интерфейсы, сочетающие эстетику, удобство и смысл.
+I'm a beginner designer who strives to create interfaces that combine aesthetics, usability, and meaning.
 
-Люблю превращать сложные задачи в понятные решения, исследовать поведение пользователей и создавать продукты, которыми действительно приятно пользоваться.
+I love turning complex problems into clear solutions, exploring user behavior, and creating products that people genuinely enjoy using.
 
-> «Хороший дизайн — это не только про красоту. Это про то, насколько легко человек достигает своей цели.»
+> "Good design isn't just about beauty. It's about how easily a person achieves their goal."
 </div>
 
 ---
 
-<h2 align="left">🚀 Чем занимаюсь</h2>
+<h2 align="left">🚀 What I Do</h2>
 
 <div align="left">
   🔍 UX Research • 🎨 UI Design • 📱 Mobile & Web Design<br />
@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
@@ -85,21 +86,27 @@
 
 ---
 
-<h1 align="left">📈 Сейчас изучаю</h1>
+<h2 align="left">📈 Currently Learning</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Product%20Design-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UX%20Research-4ECDC4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design%20Systems-45B7D1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Motion%20Design-96CEB4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend%20для%20дизайнеров-FFEAA7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend%20for%20Designers-FFEAA7?style=for-the-badge" />
 </div>
 
 ---
 
-<h2 align="left">📫 Контакты</h2>
+<h2 align="left">📫 Contacts</h2>
 
 <div align="left">
+  <a href="https://archipmironov.com">
+    <img src="https://img.shields.io/badge/Portfolio-archipmironov.com-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a><br />
+  <a href="https://linkedin.com/in/archip-mironov">
+    <img src="https://img.shields.io/badge/LinkedIn-archip--mironov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a><br />
   <a href="https://behance.net/archip_mironov">
     <img src="https://img.shields.io/badge/Behance-archip__mironov-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
   </a><br />
