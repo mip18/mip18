@@ -3,10 +3,8 @@
 UI/UX Designer • Product Designer • Creative Thinker
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Designing+beautiful+digital+experiences;Turning+ideas+into+products;Always+learning+something+new" /><br>"Profile Views" (https://komarev.com/ghpvc/?username=archipmironov&style=flat-square)
-"Designer" (https://img.shields.io/badge/UI%2FUX-Designer-blue?style=flat-square)
-"Open to Work" (https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square)
 
-</div>---
+</div>
 
 👋 Обо мне
 
@@ -18,8 +16,6 @@ UI/UX Designer • Product Designer • Creative Thinker
 
 ««Хороший дизайн — это не только про красоту. Это про то, насколько легко человек достигает своей цели.»»
 
----
-
 🚀 Чем занимаюсь
 
 🔍 UX Research
@@ -29,7 +25,6 @@ UI/UX Designer • Product Designer • Creative Thinker
 🚀 Product Design
 ✨ Branding
 
----
 
 🛠️ Мой стек
 
@@ -49,8 +44,6 @@ Design
 - After Effects
 - Procreate
 
----
-
 📂 Кейсы
 
 🎯 Startup Landing Page
@@ -68,8 +61,6 @@ Design
 
 Инструменты: "Figma" "Miro" "Hotjar"
 
----
-
 🌿 Eco Brand Identity
 
 «Создание визуального образа экологичного бренда.»
@@ -83,7 +74,6 @@ Design
 
 Инструменты: "Illustrator" "Photoshop"
 
----
 
 📈 Сейчас изучаю
 
@@ -93,8 +83,6 @@ Design
 + Motion Design
 + Frontend для дизайнеров
 
----
-
 🎯 Цели на ближайшее время
 
 - [ ] Собрать полноценное портфолио
@@ -103,7 +91,6 @@ Design
 - [ ] Освоить Framer
 - [ ] Получить первый коммерческий проект
 
----
 
 📊 GitHub Stats
 
@@ -122,8 +109,6 @@ Design
 🎨 Behance — behance.net/archip_mironov
 
 📧 work.archip@domain.com
-
----
 
 <div align="center">⚡ Building my future one pixel at a time
 
