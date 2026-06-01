@@ -1,47 +1,130 @@
-# Привет, я Архип Миронов 👋
+<div align="center">✨ Архип Миронов
 
-Я дизайнер, живущий на стыке эстетики и логики. Мне нравится решать сложные задачи через простоте и ясные визуальные решения. Специализируюсь на UI/UX дизайне, брендинге и другом.
+UI/UX Designer • Product Designer • Creative Thinker
 
-### Что я делаю
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Designing+beautiful+digital+experiences;Turning+ideas+into+products;Always+learning+something+new" /><br>"Profile Views" (https://komarev.com/ghpvc/?username=archipmironov&style=flat-square)
+"Designer" (https://img.shields.io/badge/UI%2FUX-Designer-blue?style=flat-square)
+"Open to Work" (https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square)
 
-*   🔍 Провожу исследование и анализ целевой аудитории.
-*   🎨 Создаю визуальные концепции и дизайн-системы.
-*   📱 Проектирую интуитивные интерфейсы для веба и мобильных приложений.
-*   🚀 Подготавливаю макеты для разработки и участвую в передаче проекта.
+</div>---
 
-### Технологический стек
+👋 Обо мне
 
-| Категория | Инструменты |
-| :--- | :--- |
-| **Дизайн и Прототипирование** | Figma, Sketch, Adobe XD, Principle, Framer |
-| **Графика и Иллюстрация** | Adobe Illustrator, Photoshop, Procreate |
-| **Верстка и Анимация** | HTML, CSS (базово), After Effects |
+Меня зовут Архип Миронов.
 
-### Мои проекты
+Я начинающий дизайнер, который стремится создавать интерфейсы, сочетающие эстетику, удобство и смысл.
 
-Здесь вы найдете подборку моих последних и самых значимых работ. Каждый проект — это история поиска и решения конкретной проблемы.
+Люблю превращать сложные задачи в понятные решения, исследовать поведение пользователей и создавать продукты, которыми действительно приятно пользоваться.
 
-#### [🎯 Название проекта 1](ссылка_на_проект)
-_Краткое описание задачи и решения._
-*   **Задача:** Увеличить конверсию на сайте стартапа.
-*   **Решение:** Провел UX-аудит, переработал пользовательский поток и создал новый UI.
-*   **Результат:** Конверсия выросла на 25%.
-*   **Инструменты:** `Figma` `Miro` `Hotjar`
-
-#### [✨ Название проекта 2](ссылка_на_проект)
-_Краткое описание задачи и решения._
-*   **Задача:** Разработать айдентику для нового экологичного бренда.
-*   **Решение:** Создал логотип, цветовую палитру и систему графических элементов, отражающих ценности бренда.
-*   **Инструменты:** `Illustrator` `Photoshop` `InDesign`
-
-### Давайте работать вместе!
-
-Я всегда открыт к обсуждению новых проектов, творческих коллабораций или просто к интересной беседе о дизайне.
-
-*   **Основное портфолио:** [archipmironov.com](https://archipmironov.com)
-*   **Деловая почта:** [work.archip@domain.com](mailto:work.archip@domain.com)
-*   **LinkedIn:** [Архип Миронов](https://linkedin.com/in/archip-mironov)
-*   **Behance:** [Мое Behance](https://behance.net/archip_mironov)
+««Хороший дизайн — это не только про красоту. Это про то, насколько легко человек достигает своей цели.»»
 
 ---
-*Все что здесь написано пока что не совсем правда, но я стремлюсь к этому. Пока что это сделано для выполнения домашней работы*
+
+🚀 Чем занимаюсь
+
+🔍 UX Research
+🎨 UI Design
+📱 Mobile & Web Design
+🧩 Design Systems
+🚀 Product Design
+✨ Branding
+
+---
+
+🛠️ Мой стек
+
+Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>Frontend Basics
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>Additional Tools
+
+- Framer
+- Miro
+- Notion
+- After Effects
+- Procreate
+
+---
+
+📂 Кейсы
+
+🎯 Startup Landing Page
+
+«Повышение конверсии продукта через переработку пользовательского пути.»
+
+Что сделал:
+
+- UX-аудит
+- Анализ конкурентов
+- Новый пользовательский сценарий
+- Полный редизайн интерфейса
+
+Результат: +25% к конверсии
+
+Инструменты: "Figma" "Miro" "Hotjar"
+
+---
+
+🌿 Eco Brand Identity
+
+«Создание визуального образа экологичного бренда.»
+
+Что сделал:
+
+- Логотип
+- Цветовая система
+- Типографика
+- Бренд-гайд
+
+Инструменты: "Illustrator" "Photoshop"
+
+---
+
+📈 Сейчас изучаю
+
++ Product Design
++ UX Research
++ Design Systems
++ Motion Design
++ Frontend для дизайнеров
+
+---
+
+🎯 Цели на ближайшее время
+
+- [ ] Собрать полноценное портфолио
+- [ ] Сделать 5 сильных кейсов
+- [ ] Изучить продвинутый UX Research
+- [ ] Освоить Framer
+- [ ] Получить первый коммерческий проект
+
+---
+
+📊 GitHub Stats
+
+<div align="center">"GitHub stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+
+"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+
+</div>---
+
+📫 Контакты
+
+🌐 Portfolio — archipmironov.com
+
+💼 LinkedIn — linkedin.com/in/archip-mironov
+
+🎨 Behance — behance.net/archip_mironov
+
+📧 work.archip@domain.com
+
+---
+
+<div align="center">⚡ Building my future one pixel at a time
+
+</div>
