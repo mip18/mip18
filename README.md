@@ -49,7 +49,7 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">Development</h3>
+<h1 align="center">Development</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-<h3 align="center">Tools</h3>
+<h1 align="center">Tools</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -99,7 +99,7 @@
 
 ---
 
-<h2 align="center">📈 Сейчас изучаю</h2>
+<h2 align="center">📈 Сейчас изучаю</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Product%20Design-FF6B6B?style=for-the-badge" />
@@ -142,11 +142,6 @@
 ---
 
 <h2 align="center">📫 Контакты</h2>
-
-<p align="center">
-  <a href="https://archipmironov.com">
-    <img src="https://img.shields.io/badge/Portfolio-archipmironov.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://linkedin.com/in/archip-mironov">
     <img src="https://img.shields.io/badge/LinkedIn-archip--mironov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
