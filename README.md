@@ -87,10 +87,6 @@ Design
 
 📫 Контакты
 
-<img src="https://cdn.simpleicons.org/vercel/white" width="16" height="16" /> Portfolio — archipmironov.com
-
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" height="16" /> LinkedIn — linkedin.com/in/archip-mironov
-
 <img src="https://cdn.simpleicons.org/behance/1769FF" width="16" height="16" /> Behance — behance.net/archip_mironov
 
 <img src="https://cdn.simpleicons.org/pinterest/BD081C" width="16" height="16" /> Pinterest — pinterest.com/archipmironov
