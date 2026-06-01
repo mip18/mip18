@@ -25,9 +25,9 @@
 
 ---
 
-<h2 align="right">👋 Обо мне</h2>
+<h2 align="left">👋 Обо мне</h2>
 
-<div align="right">
+<div align="left">
 Меня зовут Архип Миронов.
 
 Я начинающий дизайнер, который стремится создавать интерфейсы, сочетающие эстетику, удобство и смысл.
@@ -39,19 +39,19 @@
 
 ---
 
-<h2 align="right">🚀 Чем занимаюсь</h2>
+<h2 align="left">🚀 Чем занимаюсь</h2>
 
-<div align="right">
+<div align="left">
   🔍 UX Research • 🎨 UI Design • 📱 Mobile & Web Design<br />
   🧩 Design Systems • 🚀 Product Design • ✨ Branding
 </div>
 
 ---
 
-<h2 align="right">🛠️ Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
-<h3 align="right">Development</h3>
-<div align="right">
+<h3 align="left">Development</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -61,16 +61,16 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </div>
 
-<h3 align="right">Tools</h3>
-<div align="right">
+<h3 align="left">Tools</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 </div>
 
-<h3 align="right">Design</h3>
-<div align="right">
+<h3 align="left">Design</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
@@ -78,17 +78,17 @@
   <img src="https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white" alt="Krita" />
 </div>
 
-<h3 align="right">Operating Systems</h3>
-<div align="right">
+<h3 align="left">Operating Systems</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ---
 
-<h2 align="right">📈 Сейчас изучаю</h2>
+<h2 align="left">📈 Сейчас изучаю</h2>
 
-<div align="right">
+<div align="left">
   <img src="https://img.shields.io/badge/Product%20Design-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UX%20Research-4ECDC4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design%20Systems-45B7D1?style=for-the-badge" />
@@ -98,9 +98,9 @@
 
 ---
 
-<h2 align="right">📫 Контакты</h2>
+<h2 align="left">📫 Контакты</h2>
 
-<div align="right">
+<div align="left">
   <a href="https://archipmironov.com">
     <img src="https://img.shields.io/badge/Portfolio-archipmironov.com-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a><br />
@@ -120,7 +120,7 @@
 
 ---
 
-<div align="right">
+<div align="left">
   ⚡ Building my future one pixel at a time
 </div>
 
