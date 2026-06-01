@@ -5,19 +5,19 @@
 -->
 
 <!-- HEADER -->
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:334155&height=200&section=header&text=Arkhip_Mironov&fontSize=48&fontColor=F8FAFC" alt="header" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:334155&height=200&section=header&text=Arhip%20Mironov&fontSize=48&fontColor=F8FAFC" alt="header" />
 </p>
 
-<p align="left">
+<p align="center">
   UI/UX Designer • Product Designer • Creative Thinker
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Designing+beautiful+digital+experiences;Turning+ideas+into+products;Always+learning+something+new" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=archipmironov&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/UI%2FUX-Designer-blue?style=flat-square" alt="Designer" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square" alt="Open to Work" />
@@ -28,7 +28,7 @@
 <h2 align="left">👋 About Me</h2>
 
 <div align="left">
-My name is Arkhip Mironov.
+My name is Arhip Mironov.
 
 I'm a beginner designer who strives to create interfaces that combine aesthetics, usability, and meaning.
 
