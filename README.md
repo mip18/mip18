@@ -100,20 +100,13 @@ I love turning complex problems into clear solutions, exploring user behavior, a
 
 <h2 align="left">📫 Contacts</h2>
 
-<div align="left">
-  <a href="https://archipmironov.com">
-    <img src="https://img.shields.io/badge/Portfolio-archipmironov.com-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a><br />
-  <a href="https://linkedin.com/in/archip-mironov">
-    <img src="https://img.shields.io/badge/LinkedIn-archip--mironov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a><br />
-  <a href="https://behance.net/archip_mironov">
+  <a href="https://www.behance.net/de8ddf12">
     <img src="https://img.shields.io/badge/Behance-archip__mironov-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
   </a><br />
-  <a href="https://pinterest.com/archipmironov">
+  <a href="https://pin.it/1cKoRjvD5">
     <img src="https://img.shields.io/badge/Pinterest-archipmironov-BD081C?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest" />
   </a><br />
-  <a href="mailto:work.archip@domain.com">
+  <a href="arhipmp@gmail.com">
     <img src="https://img.shields.io/badge/Email-work.archip@domain.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
