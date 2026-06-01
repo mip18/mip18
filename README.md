@@ -117,30 +117,6 @@
 
 ---
 
-<h2 align="center">🎯 Цели на ближайшее время</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Собрать%20портфолио-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-5%20сильных%20кейсов-FF6347?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Продвинутый%20UX%20Research-20B2AA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Освоить%20Framer-4169E1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Первый%20коммерческий%20проект-FFD700?style=for-the-badge" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archipmironov&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archipmironov&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 <h2 align="center">📫 Контакты</h2>
   <a href="https://linkedin.com/in/archip-mironov">
     <img src="https://img.shields.io/badge/LinkedIn-archip--mironov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
