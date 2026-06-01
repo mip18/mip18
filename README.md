@@ -2,8 +2,7 @@
 
 UI/UX Designer • Product Designer • Creative Thinker
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Designing+beautiful+digital+experiences;Turning+ideas+into+products;Always+learning+something+new" /><br>"Profile Views" (https://komarev.com/ghpvc/?username=archipmironov&style=flat-square)
-
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Designing+beautiful+digital+experiences;Turning+ideas+into+products;Always+learning+something+new" />
 </div>
 
 👋 Обо мне
@@ -83,22 +82,8 @@ Design
 + Motion Design
 + Frontend для дизайнеров
 
-🎯 Цели на ближайшее время
 
-- [ ] Собрать полноценное портфолио
-- [ ] Сделать 5 сильных кейсов
-- [ ] Изучить продвинутый UX Research
-- [ ] Освоить Framer
-- [ ] Получить первый коммерческий проект
-
-
-📊 GitHub Stats
-
-<div align="center">"GitHub stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-
-"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
-
-</div>---
+</div>
 
 📫 Контакты
 
